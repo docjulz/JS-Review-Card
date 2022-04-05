@@ -11,16 +11,16 @@ font-family: 'Shadows Into Light', cursive;
 *,
 ::after,
 ::before {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 body {
     font-family: 'Lobster', cursive; 
-  background: rgb(244, 250, 255);
-  color: rgb(15, 28, 55);
-  line-height: 1.25;
-  font-size: 1.25rem;
+    background: rgb(244, 250, 255);
+    color: rgb(15, 28, 55);
+    line-height: 1.25;
+    font-size: 1.25rem;
 }
 main {
     min-height: 100vh;
@@ -29,31 +29,31 @@ main {
     align-items: center;
   }
 ul {
-  list-style-type: none;
+    list-style-type: none;
 }
 a {
-  text-decoration: none;
+    text-decoration: none;
 }
 h1,
 h2
 {
-  letter-spacing: .1rem;
-  text-transform: capitalize;
-  line-height: 1.25;
-  margin-bottom: 1rem;
-  font-family: 'Shadows Into Light', cursive; 
+    letter-spacing: .1rem;
+    text-transform: capitalize;
+    line-height: 1.25;
+    margin-bottom: 1rem;
+    font-family: 'Shadows Into Light', cursive; 
 }
 h1 {
-  font-size: 3rem;
+     font-size: 3rem;
 }
 h2 {
-  font-size: 2rem;
+     font-size: 2rem;
 }
 
 p {
-  margin-bottom: 1.25rem;
-  font-weight: 100;
-  color: rgb(96, 113, 149);
+    margin-bottom: 1.25rem;
+    font-weight: 100;
+    color: rgb(96, 113, 149);
 }
 
 /* section */

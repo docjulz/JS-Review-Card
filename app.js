@@ -59,11 +59,7 @@ const reviews = [
     showPerson(currentItem);
   });
   
-  // Get the functionality of the button
-  
-  
-  
-  // Show person based on item
+   // Show person based on item
   function showPerson(person) {
     const item = reviews[person];
     img.src = item.img;
